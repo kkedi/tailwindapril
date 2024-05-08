@@ -1,0 +1,19 @@
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "description": "introduction to tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "univel":"tailwind -i ./kedi.css -o ./april/might.css --watch"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "kedi",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
